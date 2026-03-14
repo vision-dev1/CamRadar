@@ -4,7 +4,6 @@ port_scan.py - Surveillance port scanner for CamRadar.
 Checks target devices for open ports commonly used by IP cameras,
 DVR systems, and streaming services.
 """
-
 import socket
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
