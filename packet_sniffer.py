@@ -6,13 +6,9 @@ protocols are detected. Runs until the user presses Ctrl+C.
 """
 
 import sys
-
 from colorama import Fore, Style
-
 from utils.logger import get_logger
-
 logger = get_logger("camradar.monitoring.sniffer")
-
 
 # Ports to watch for streaming traffic
 STREAMING_PORTS: set[int] = {554, 8554, 1935, 5004, 5005}
