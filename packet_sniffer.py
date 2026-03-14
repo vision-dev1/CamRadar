@@ -4,7 +4,6 @@ packet_sniffer.py - Network packet monitor for CamRadar.
 Sniffs network traffic and alerts when RTSP or other streaming
 protocols are detected. Runs until the user presses Ctrl+C.
 """
-
 import sys
 from colorama import Fore, Style
 from utils.logger import get_logger
