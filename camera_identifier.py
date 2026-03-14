@@ -4,7 +4,6 @@ camera_identifier.py - Camera identification engine for CamRadar.
 Analyzes discovered devices and flags any that appear to be IP cameras
 or surveillance devices based on open ports and vendor information.
 """
-
 from colorama import Fore, Style
 
 from detection.mac_vendor_lookup import lookup_vendor, is_surveillance_vendor
