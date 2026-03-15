@@ -1,7 +1,5 @@
 # CamRadar – Hidden Camera Detection Tool
 
-![Apache License](https://img.shields.io/badge/License-Apache%202.0-D2473E?style=for-the-badge&logo=apache&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Cryptography-red?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
