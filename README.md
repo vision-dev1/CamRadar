@@ -154,7 +154,6 @@ Hikvision · Dahua · TP-Link · Xiaomi · Wyze · Axis · Foscam · Amcrest · 
 This project is for **educational and authorized security testing purposes only**. Always obtain proper authorization before scanning networks you do not own.
 
 ---
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/vision-dev1">Vision</a>
-</p>
+## Author
+Vision KC
+[Github](https://github.com/vision-dev1)
