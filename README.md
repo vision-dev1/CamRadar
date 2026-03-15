@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>by Vision → <a href="https://github.com/vision-dev1">github.com/vision-dev1</a></em>
+  <em>by Vision → <a href="https://visionkc.com.np">View</a></em>
 </p>
 
 ---
@@ -159,6 +159,8 @@ This project is for **educational and authorized security testing purposes only*
 
 ---
 
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/vision-dev1">Vision</a>
-</p>
+## Author
+[Github](https://github.com/vision-dev1)<br>
+[Portfolio](https://visionkc.com.np)
+
+---
