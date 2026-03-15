@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <em>by Vision → <a href="https://github.com/vision-dev1">github.com/vision-dev1</a></em>
+  <em>by Vision → <a href="https://github.com/vision-dev1">Vision KC</a></em>
 </p>
 
 ---
