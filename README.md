@@ -160,7 +160,7 @@ This project is for **educational and authorized security testing purposes only*
 ---
 
 ## Author
-[Github](https://github.com/vision-dev1)<br>
+[Github](https://github.com/visionxstack)<br>
 [Portfolio](https://visionkc.com.np)
 
 ---
